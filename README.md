@@ -17,6 +17,16 @@ When a public release becomes available, it will be distributed as a binary patc
 
 The project does not distribute the complete original game.
 
+### Compatible Game Version
+
+The Initial release of Interstate SeventyFix patches **Interstate '76 Gold Edition**.
+
+Other releases, including earlier retail versions and the GOG release, have not yet been verified for compatibility.
+
+Interstate SeventyFix is distributed as a binary patch. Users must supply their own copy of the original game.
+
+The patch requires a specific version of `I76.EXE`. Support for additional versions may be added in future releases.
+
 ## Bugs, Feedback, and Feature Requests
 
 Found a bug or have an idea for an improvement?
