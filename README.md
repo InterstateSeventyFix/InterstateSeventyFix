@@ -6,8 +6,8 @@ Interstate SeventyFix is a fan-developed project dedicated to improving the clas
 
 ## Features
 
-- **High framerates:** without the fluttering wheels, misfiring flamethrowers and mortars, malfunctioning ramps, racing clouds, etc.
-- **High-resolution software rendering:** widescreen, aspect ratio correction.
+- **High framerates** without the fluttering wheels, misfiring flamethrowers and mortars, malfunctioning ramps, racing clouds, etc.
+- **High-resolution software rendering** with widescreen and aspect ratio correction.
 
 ## Download and Installation
 
