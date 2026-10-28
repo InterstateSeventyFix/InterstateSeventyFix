@@ -11,9 +11,9 @@ Interstate SeventyFix is a fan-developed project dedicated to improving the clas
 
 ## Download and Installation
 
-Interstate SeventyFix is currently under development.
+### [⬇ Download Interstate SeventyFix 0.1.0 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.0/i7fix-0.1.0.zip)
 
-When a public release becomes available, it will be distributed as a binary patch. **Users must supply their own copy of the original Interstate '76 executable.**
+**Users must supply their own copy of the original Interstate '76 executable.**
 
 The project does not distribute the complete original game.
 
