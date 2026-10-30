@@ -40,6 +40,8 @@
     .notice { display:flex; justify-content:space-between; align-items:center; gap:20px; flex-wrap:wrap; }
     .notice p { color:var(--muted); margin:6px 0 0; }
     .tag { border:1px solid #806142; border-radius:30px; padding:5px 12px; color:var(--accent); font-size:.8rem; font-weight:650; white-space:nowrap; }
+    .video-player { width:100%; max-width:900px; aspect-ratio:16 / 9; display:block; border:1px solid var(--border); border-radius:9px; background:#000; }
+    #community { min-height:100vh; } /* Allow Feedback to scroll to the top of the viewport. */
     .links { display:flex; flex-wrap:wrap; gap:16px 28px; }
     .links a { color:var(--accent); text-underline-offset:4px; }
     footer { border-top:1px solid var(--border); padding:30px 0 46px; color:var(--muted); font-size:.85rem; }
@@ -54,6 +56,7 @@
       <nav aria-label="Main navigation">
         <a href="#features">Features</a>
         <a href="#download">Download</a>
+        <a href="#video">Video</a>
         <a href="#community">Feedback</a>
         <a href="https://github.com/InterstateSeventyFix/InterstateSeventyFix">GitHub</a>
       </nav>
@@ -102,6 +105,10 @@
           <a href="https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.0/i7fix-0.1.0.zip">Download</a>
         </span>
       </div>
+    </section>
+    <section id="video">
+      <h2>Video</h2>
+      <iframe class="video-player" src="https://www.youtube-nocookie.com/embed/2Leo-KP0I_0" title="Interstate SeventyFix video" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </section>
     <section id="community">
       <h2>Follow the project</h2>
