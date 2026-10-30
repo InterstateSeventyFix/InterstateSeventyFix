@@ -9,6 +9,12 @@ Interstate SeventyFix is a fan-developed project dedicated to improving the clas
 - **High framerates** without the fluttering wheels, misfiring flamethrowers and mortars, malfunctioning ramps, racing clouds, etc.
 - **High-resolution software rendering** with widescreen and aspect ratio correction.
 
+## Demo Video
+
+So you can decide if it's worth your time.
+
+### [Demo Video QHD](https://youtu.be/2Leo-KP0I_0)
+
 ## Download and Installation
 
 ### [⬇ Download Interstate SeventyFix 0.1.0 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.0/i7fix-0.1.0.zip)
