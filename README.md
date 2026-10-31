@@ -1,6 +1,6 @@
 # Interstate SeventyFix
 
-**An unofficial enhancement project for Activision's Interstate '76.**
+**Yet another unofficial enhancement project for Activision's Interstate '76.**
 
 Interstate SeventyFix is a fan-developed project dedicated to improving the classic 1997 vehicular combat game *Interstate '76*, while preserving the character and gameplay of the original. The original game has a lot of charm, but it also has more bugs than a beehive and is infamous for running poorly on modern computers. The goal is to fix all of that and add modern features.
 <br><br>
@@ -43,12 +43,6 @@ Found a bug or have an idea for an improvement?
 
 - Use **Issues** to report reproducible bugs or request specific features.
 - Use **Discussions** for questions, suggestions, and general conversation about the project.
-<br><br>
-## About the Project
-
-Interstate SeventyFix is an independent hobby project developed through reverse engineering and experimentation with the original game's executable.
-
-The objective is to make Interstate '76 more enjoyable on modern computer hardware while retaining the original gameplay experience.
 <br><br>
 ## Acknowledgements
 
