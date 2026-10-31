@@ -21,7 +21,7 @@ So you can decide if it's worth your time.
 <br><br>
 ## Download and Installation
 
-### [⬇ Download Interstate SeventyFix 0.1.0 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.0/i7fix-0.1.0.zip)
+### [⬇ Download Interstate SeventyFix 0.1.1 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.1/i7fix-0.1.1.zip)
 
 **Users must supply their own copy of the original Interstate '76 executable.**
 
