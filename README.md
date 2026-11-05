@@ -19,7 +19,7 @@ What sets Interstate SeventyFix apart from other projects that share the same go
 ## [Demo Video QHD](https://youtu.be/2Leo-KP0I_0)
 <br>
 
-## Download [⬇ Download Interstate SeventyFix 0.1.1 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.1/i7fix-0.1.1.zip)
+## [⬇ Download Interstate SeventyFix 0.1.1 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.1/i7fix-0.1.1.zip)
 <br>
 
 ## Installation
