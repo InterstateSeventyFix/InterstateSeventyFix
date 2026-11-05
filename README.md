@@ -16,32 +16,27 @@ What sets Interstate SeventyFix apart from other projects that share the same go
 - **High-resolution software rendering** with widescreen and aspect ratio correction.
 <br><br>
 
-## Demo Video
+## [Demo Video QHD](https://youtu.be/2Leo-KP0I_0)
+<br>
 
-So you can decide if it's worth your time.
+## Download [⬇ Download Interstate SeventyFix 0.1.1 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.1/i7fix-0.1.1.zip)
+<br>
 
-### [Demo Video QHD](https://youtu.be/2Leo-KP0I_0)
-<br><br>
+## Installation
 
-## Download and Installation
+To install, follow the steps in the README file that is included in the download.
 
-### [⬇ Download Interstate SeventyFix 0.1.1 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.1/i7fix-0.1.1.zip)
+**Users must supply their own copy of Interstate '76.**
 
-**Users must supply their own copy of the original Interstate '76 executable.**
+The current release of Interstate SeventyFix patches **Interstate '76 Gold Edition**.
 
-### Compatible Game Version
-
-The current release of Interstate SeventyFix patches **Interstate '76 Gold Edition** and **Interstate '76 GOG Edition**.
-
-Support for additional versions may be added in future releases.
-<br><br>
+ **Interstate '76 GOG Edition** can be patched, but may be unplayable because it will prompt you to insert the game CD.  See **Issues** for a workaround.
+ <br><br>
 
 ## Bugs, Feedback, and Feature Requests
 
-Found a bug or have an idea for an improvement?
-
 - Use **Issues** to view known bugs.
-- Use **Discussions** to report bugs, ask questions, make suggestions, and engage in general conversation about the project.
+- Use **Discussions** to report bugs, ask questions, make suggestions, and engage in conversation about the project.
 <br><br>
 
 ## Acknowledgements
