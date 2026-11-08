@@ -28,7 +28,7 @@ To install, follow the steps in the README file that is included in the download
 
 **Users must supply their own copy of Interstate '76.**
 
-The current release of Interstate SeventyFix patches **Interstate '76 Gold Edition** and **Interstate '76 GOG Edition**
+The current release of Interstate SeventyFix patches **Interstate '76 Gold Edition** and **Interstate '76 GOG Edition**.  Gold edition works better.
 <br><br>
 
 ## Bugs, Feedback, and Feature Requests
