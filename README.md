@@ -19,7 +19,7 @@ What sets Interstate SeventyFix apart from other projects that share the same go
 ## [Demo Video QHD](https://youtu.be/2Leo-KP0I_0)
 <br>
 
-## [⬇ Download Interstate SeventyFix 0.1.1 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.1/i7fix-0.1.1.zip)
+## [⬇ Download Interstate SeventyFix 0.1.2 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.2/i7fix-0.1.2.zip)
 <br>
 
 ## Installation
@@ -28,10 +28,8 @@ To install, follow the steps in the README file that is included in the download
 
 **Users must supply their own copy of Interstate '76.**
 
-The current release of Interstate SeventyFix patches **Interstate '76 Gold Edition**.
-
- **Interstate '76 GOG Edition** can be patched, but may be unplayable because it will prompt you to insert the game CD.  See **Issues** for a workaround.
- <br><br>
+The current release of Interstate SeventyFix patches **Interstate '76 Gold Edition** and **Interstate '76 GOG Edition**
+<br><br>
 
 ## Bugs, Feedback, and Feature Requests
 
@@ -43,10 +41,7 @@ The current release of Interstate SeventyFix patches **Interstate '76 Gold Editi
 
 I wish to thank:
 
-- ChatGPT for patiently explaining things in a way that my squishy brain could understand.
-- thatTony for his pioneering work in understanding how Interstate '76 works.
-- The creators of Interstate '76.
-- All of the folks that see the value in keeping this game alive and helping it reach it's potential.
+- The creators of Interstate '76, ChatGPT, thatTony, Jim, UCyborg, Crossgen116.
 <br><br>
 
 ## Disclaimer
