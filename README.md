@@ -19,7 +19,7 @@ What sets Interstate SeventyFix apart from other projects that share the same go
 ## [Demo Video QHD](https://youtu.be/2Leo-KP0I_0)
 <br>
 
-## [⬇ Download Interstate SeventyFix 0.1.2 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.2/i7fix-0.1.2.zip)
+## [⬇ Download Interstate SeventyFix 0.1.3 Beta](https://github.com/InterstateSeventyFix/InterstateSeventyFix/releases/download/v0.1.3/i7fix-0.1.3.zip)
 <br>
 
 ## Installation
@@ -28,7 +28,7 @@ To install, follow the steps in the README file that is included in the download
 
 **Users must supply their own copy of Interstate '76.**
 
-The current release of Interstate SeventyFix patches **Interstate '76 Gold Edition** and **Interstate '76 GOG Edition**.  Gold edition works better.
+The current release of Interstate SeventyFix patches **Interstate '76 Gold Edition** and **Interstate '76 GOG Edition**.  The music in the Gold edition works better, but requires a [CD image](https://github.com/InterstateSeventyFix/InterstateSeventyFix/discussions/26).  
 <br><br>
 
 ## Bugs, Feedback, and Feature Requests
